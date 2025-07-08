@@ -1,0 +1,1 @@
+This project is an intro to Git and HTML, and will teach me the basic skills by having me create my first webpage. 
