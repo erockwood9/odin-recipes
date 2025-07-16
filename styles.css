@@ -1,0 +1,16 @@
+body {
+	font-family: 'Silkscreen', sans-serif;
+	background-color: black;
+	color: white;
+	
+}
+
+.title {
+	font-size: 90px;
+	margin-top: 0;
+	
+}
+
+ul {
+	list-style-type: square;
+}
